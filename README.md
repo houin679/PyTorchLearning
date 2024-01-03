@@ -1,2 +1,2 @@
 # PyTorchLearning
-Basic Pytorch Learning materia
+Basic Pytorch Learning material
